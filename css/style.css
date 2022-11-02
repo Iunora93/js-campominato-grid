@@ -64,13 +64,13 @@ footer{
     background-color: rgb(38, 99, 212);
 }
 
-/* difficoltà 1 */
+/* difficoltà-select */
 .medium-level{
     width: calc(100% / 9);
     height: calc(100% / 9);
     border: 1px solid black;
     text-align: center;
-    padding-top: 13px;
+    padding-top: 15px;
 }
 
 .easy-level{
@@ -78,5 +78,9 @@ footer{
     height: calc(100% / 7);
     border: 1px solid black;
     text-align: center;
-    padding-top: 13px; 
+    padding-top: 25px; 
+}
+
+label{
+    margin-right: 5px;
 }

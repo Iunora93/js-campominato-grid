@@ -37,7 +37,7 @@ btnGenerator.addEventListener('click', function(){
             boardCell.classList.add("easy-level");
             boardCell.addEventListener("click", function(){
             console.log(this.innerHTML);
-            boardCell.classList.add("color");
+            boardCell.classList.add("lightblue");
         })
         boardContainer.append(boardCell);
     }
