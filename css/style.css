@@ -23,6 +23,11 @@ header{
 
 #btn-generator{
     padding: 0 15px;
+    margin-left: 10px;
+}
+
+.btn-header{
+    display: flex;
 }
 
 main{
