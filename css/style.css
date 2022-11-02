@@ -44,6 +44,8 @@ footer{
     width: calc(100% / 10);
     height: calc(100% / 10);
     border: 1px solid black;
+    text-align: center;
+    padding-top: 13px;
 }
 
 .lightblue{
