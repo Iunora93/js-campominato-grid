@@ -28,6 +28,7 @@ header{
 
 .btn-header{
     display: flex;
+    align-items: center;
 }
 
 main{
@@ -63,4 +64,19 @@ footer{
     background-color: rgb(38, 99, 212);
 }
 
+/* difficoltà 1 */
+.medium-level{
+    width: calc(100% / 9);
+    height: calc(100% / 9);
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 13px;
+}
 
+.easy-level{
+    width: calc(100% / 7);
+    height: calc(100% / 7);
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 13px; 
+}
