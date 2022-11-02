@@ -15,8 +15,14 @@ body{
 }
 
 header{
+    display: flex;
+    justify-content: space-between;
     background-color: white;
     padding: 1rem;
+}
+
+#btn-generator{
+    padding: 0 15px;
 }
 
 main{
